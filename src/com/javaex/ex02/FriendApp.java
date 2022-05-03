@@ -24,7 +24,7 @@ public class FriendApp {
     	for(Friend f : fList) {
     		f.showFriends();
     	}
-    	
+    	 
     	sc.close();
     }
 

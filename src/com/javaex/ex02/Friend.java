@@ -18,7 +18,7 @@ public class Friend {
 		this.school = school;
 	}
 	
-	
+	 
 	
 	//메소드 gs
 	public String getName() {
