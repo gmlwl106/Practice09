@@ -25,7 +25,7 @@ public class FriendApp {
     		f.showFriends();
     	}
     	
-    	
+    	sc.close();
     }
 
 }
